@@ -4,10 +4,10 @@ Welcome to my Machine Learning journey! This repository contains my work and pro
 📚 About This Repository
 This repository includes:
 
-ML Projects: A collection of various machine learning projects covering topics such as supervised learning, unsupervised learning, deep learning, and reinforcement learning.
-Data Analysis: Data wrangling, cleaning, and visualization techniques to prepare datasets for ML tasks.
-Model Development: Implementing models from scratch and using established libraries like Scikit-learn, TensorFlow, Keras, PyTorch, and others.
-Experiments: Continuous learning from experimenting with hyperparameters, optimization techniques, and performance metrics.
+**ML Projects:** A collection of various machine learning projects covering topics such as supervised learning, unsupervised learning, deep learning, and reinforcement learning.
+**Data Analysis:** Data wrangling, cleaning, and visualization techniques to prepare datasets for ML tasks.
+**Model Development:** Implementing models from scratch and using established libraries like Scikit-learn, TensorFlow, Keras, PyTorch, and others.
+**Experiments:** Continuous learning from experimenting with hyperparameters, optimization techniques, and performance metrics.
 🚀 Getting Started
 To get started with this repository, clone it to your local machine:
 https://github.com/salman1451/MACHINE-LEARNING.git
